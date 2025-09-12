@@ -1,0 +1,11 @@
+# Ignore data outputs
+*.csv
+!data/Jan_June2025.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.env/
+.venv/
